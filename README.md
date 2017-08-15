@@ -2,7 +2,7 @@
 
 ## 模拟阿里双十一分布式数据同步
 
-初赛最终排名：4/1959	
+复赛最终排名：4/1959	
 
 
 [复赛题目链接](https://code.aliyun.com/wanshao/IncrementalSync?spm=5176.100068.555.2.76d97540EVafIf)  
